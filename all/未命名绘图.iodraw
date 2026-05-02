@@ -79,11 +79,8 @@
             <mxPoint x="330.072" y="813.3119999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.43;entryY=-0.01;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="325" y="731" as="sourcePoint" />
-            <mxPoint x="341" y="829" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Xomsz9CdZlfgE3B2mpqf-46" value="3.工件检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="289" width="245" height="432" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
