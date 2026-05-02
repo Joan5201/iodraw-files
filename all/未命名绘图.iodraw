@@ -34,9 +34,6 @@
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-11" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="243" y="662" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-12" target="Xomsz9CdZlfgE3B2mpqf-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-12" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="254" y="809" width="156" height="49" as="geometry" />
         </mxCell>
@@ -90,9 +87,6 @@
               <mxPoint x="362" y="772" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-26" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="254" y="938" width="156" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
