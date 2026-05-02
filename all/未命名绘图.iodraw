@@ -79,9 +79,6 @@
             <mxPoint x="330.072" y="813.3119999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-46" value="3.工件检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="289" width="245" height="432" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
