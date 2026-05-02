@@ -31,6 +31,11 @@
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-10" value="工件模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="662" width="204" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="Xomsz9CdZlfgE3B2mpqf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-11" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="267.47" y="662" width="129.06" height="51" as="geometry" />
         </mxCell>
