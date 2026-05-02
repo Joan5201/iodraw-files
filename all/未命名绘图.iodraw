@@ -14,7 +14,7 @@
           <mxGeometry x="520" y="160" width="210" height="215" as="geometry" />
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-5" value="基于PyQt5和YOLOv8的混凝土裂缝检测系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="742" y="175" width="253" height="66" as="geometry" />
+          <mxGeometry x="480" y="60" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-6" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="184" width="124" height="49" as="geometry" />
