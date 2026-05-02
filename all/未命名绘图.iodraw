@@ -34,9 +34,9 @@
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-11" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="243" y="662" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-12">
+        <mxCell id="Xomsz9CdZlfgE3B2mpqf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="900" as="targetPoint" />
+            <mxPoint x="730" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-12" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
