@@ -80,13 +80,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-22" value="提供模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.373;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-10" target="Xomsz9CdZlfgE3B2mpqf-2">
+        <mxCell id="Xomsz9CdZlfgE3B2mpqf-22" value="提供模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.373;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="602" y="736" />
-              <mxPoint x="900" y="460" />
-              <mxPoint x="362" y="772" />
+              <mxPoint x="596" y="1045.8600000000001" />
+              <mxPoint x="894" y="769.86" />
+              <mxPoint x="356" y="1081.8600000000001" />
             </Array>
+            <mxPoint x="596" y="1020.8599999999998" as="sourcePoint" />
+            <mxPoint x="864" y="749.9960000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-28" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
