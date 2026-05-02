@@ -11,7 +11,7 @@
           <mxGeometry x="488" y="430" width="292" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-4" value="1.信息获取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="210" height="215" as="geometry" />
+          <mxGeometry x="510" y="160" width="210" height="215" as="geometry" />
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-6" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="184" width="124" height="49" as="geometry" />
@@ -78,17 +78,6 @@
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-13" target="Xomsz9CdZlfgE3B2mpqf-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-22" value="提供模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.373;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="596" y="1045.8600000000001" />
-              <mxPoint x="894" y="769.86" />
-              <mxPoint x="356" y="1081.8600000000001" />
-            </Array>
-            <mxPoint x="596" y="1020.8599999999998" as="sourcePoint" />
-            <mxPoint x="864" y="749.9960000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-28" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
