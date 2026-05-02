@@ -31,11 +31,6 @@
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-10" value="工件模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="662" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Xomsz9CdZlfgE3B2mpqf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xomsz9CdZlfgE3B2mpqf-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xomsz9CdZlfgE3B2mpqf-11" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="243" y="662" width="124" height="49" as="geometry" />
         </mxCell>
@@ -83,6 +78,9 @@
             <mxPoint x="330.89" y="720" as="sourcePoint" />
             <mxPoint x="330.89" y="809" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xomsz9CdZlfgE3B2mpqf-40" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="254" y="670" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
