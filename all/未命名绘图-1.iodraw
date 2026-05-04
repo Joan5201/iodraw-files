@@ -91,7 +91,7 @@
           <mxGeometry x="102" y="653" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="708" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="696" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="629" width="120" height="60" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-3" value="3.裂缝检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="396" y="213" width="226" height="495" as="geometry" />
+          <mxGeometry x="108" y="168" width="226" height="495" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
