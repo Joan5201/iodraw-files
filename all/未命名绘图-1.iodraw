@@ -25,7 +25,7 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-9" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="84" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-10" target="DlVY9qZL7ljpFvdqH7a3-11">
