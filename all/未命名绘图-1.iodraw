@@ -42,7 +42,7 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-61" target="DlVY9qZL7ljpFvdqH7a3-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-61" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="264" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
