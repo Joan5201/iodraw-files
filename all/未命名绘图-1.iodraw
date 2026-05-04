@@ -1,0 +1,89 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="smeC3n9GH-eKj_fgrftX">
+    <mxGraphModel dx="786" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于PyQt5和YOLOv8的混凝土裂缝检测系统设计与实现" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="314" height="1338" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="851" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-3" value="3.裂缝检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="52" y="814" width="226" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-4" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="83" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-5" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="95" y="207" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-6" value="模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="405" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-7" value="模型优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="529" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-8" value="混凝土裂缝检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="63" y="653" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-9" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="87" y="975" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="1099" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="103" y="1222" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-12" value="2.模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="28" y="368" width="274" height="371" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-13" value="1.信息获取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry x="60" y="46" width="210" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-4" target="DlVY9qZL7ljpFvdqH7a3-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-5" target="DlVY9qZL7ljpFvdqH7a3-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-6" target="DlVY9qZL7ljpFvdqH7a3-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-7" target="DlVY9qZL7ljpFvdqH7a3-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-2" target="DlVY9qZL7ljpFvdqH7a3-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-9" target="DlVY9qZL7ljpFvdqH7a3-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-10" target="DlVY9qZL7ljpFvdqH7a3-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-21" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-8" target="DlVY9qZL7ljpFvdqH7a3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
