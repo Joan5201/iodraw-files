@@ -23,7 +23,7 @@
           <mxGeometry x="63" y="228.40358744394618" width="204" height="17.139013452914796" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-12" value="2.工件模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry x="28" y="128.71748878923768" width="274" height="129.76681614349772" as="geometry" />
+          <mxGeometry x="28" y="264" width="274" height="159.28" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-13" value="1.信息获取" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="57" y="16.08968609865471" width="210" height="86.3946188340807" as="geometry" />
