@@ -83,9 +83,6 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="696" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-3" value="3.裂缝检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108" y="168" width="226" height="495" as="geometry" />
-        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="780" width="124" height="49" as="geometry" />
         </mxCell>
@@ -94,11 +91,6 @@
             <Array as="points">
               <mxPoint x="516" y="939" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-21" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-8" target="DlVY9qZL7ljpFvdqH7a3-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
