@@ -10,9 +10,6 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-4" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="103" y="29.031390134529136" width="124" height="17.139013452914796" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-5" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry x="95" y="72.40358744394617" width="140" height="17.139013452914796" as="geometry" />
-        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-6" value="模型训练" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="103" y="141.65919282511206" width="124" height="17.139013452914796" as="geometry" />
         </mxCell>
@@ -22,12 +19,10 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-8" value="混凝土裂缝检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="63" y="228.40358744394618" width="204" height="17.139013452914796" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-12" value="2.工件模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry x="28" y="264" width="274" height="159.28" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-5" target="DlVY9qZL7ljpFvdqH7a3-6">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" target="DlVY9qZL7ljpFvdqH7a3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="165" y="89.5426008968609" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-6" target="DlVY9qZL7ljpFvdqH7a3-7">
