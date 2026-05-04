@@ -55,8 +55,11 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="348" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-7" target="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-7" value="模型优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="159.07623318385646" width="124" height="13.623318385650222" as="geometry" />
+          <mxGeometry x="293" y="159.08" width="91" height="13.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
