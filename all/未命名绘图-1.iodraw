@@ -8,7 +8,7 @@
           <mxGeometry x="600" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-9" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="120" height="49" as="geometry" />
+          <mxGeometry x="600" y="120" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="228" width="124" height="49" as="geometry" />
@@ -20,13 +20,6 @@
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="348" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="724" y="79" as="sourcePoint" />
-            <mxPoint x="624" y="79" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
