@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" width="124" height="49" as="geometry" />
         </mxCell>
