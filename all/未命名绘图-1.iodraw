@@ -100,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-3" value="3.裂缝检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="384" y="132" width="226" height="495" as="geometry" />
+          <mxGeometry x="396" y="213" width="226" height="495" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
