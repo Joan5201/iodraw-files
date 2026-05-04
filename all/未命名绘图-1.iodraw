@@ -14,15 +14,17 @@
             <mxPoint x="165" y="112.60089686098652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" target="DlVY9qZL7ljpFvdqH7a3-7">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="165" y="126.22421524663666" as="sourcePoint" />
+            <mxPoint x="163" y="147.0762331838564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-7">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="163" y="160.69955156950664" as="sourcePoint" />
             <mxPoint x="165" y="181.55156950672645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -54,12 +56,6 @@
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="348" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-7" target="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-7" value="模型优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="293" y="159.08" width="91" height="13.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
