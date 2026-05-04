@@ -7,9 +7,6 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件检测系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="396" y="-36" width="314" height="1338" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry x="103" y="851" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-4" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="103" y="83" width="124" height="49" as="geometry" />
         </mxCell>
@@ -55,22 +52,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-2" target="DlVY9qZL7ljpFvdqH7a3-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-9" target="DlVY9qZL7ljpFvdqH7a3-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-10" target="DlVY9qZL7ljpFvdqH7a3-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-21" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-8" target="DlVY9qZL7ljpFvdqH7a3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -95,6 +82,19 @@
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-3" value="3.裂缝检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108" y="168" width="226" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="780" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-2" target="DlVY9qZL7ljpFvdqH7a3-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-21" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-8" target="DlVY9qZL7ljpFvdqH7a3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
