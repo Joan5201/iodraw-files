@@ -48,6 +48,11 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-61" target="DlVY9qZL7ljpFvdqH7a3-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlVY9qZL7ljpFvdqH7a3-65">
+          <mxGeometry x="0.0556" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-61" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="192" width="120" height="48" as="geometry" />
         </mxCell>
