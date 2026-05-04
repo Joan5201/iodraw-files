@@ -33,6 +33,9 @@
             <mxPoint x="165" y="228.4035874439462" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-28" target="DlVY9qZL7ljpFvdqH7a3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="107" y="25.18385650224215" width="120" height="20.98654708520179" as="geometry" />
         </mxCell>
