@@ -45,8 +45,14 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-61" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="192" width="120" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-64" target="DlVY9qZL7ljpFvdqH7a3-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-64" value="模型优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="276" y="288" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-67" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="276" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
