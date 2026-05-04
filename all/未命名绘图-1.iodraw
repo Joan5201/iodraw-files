@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件检测系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="156" y="-96" width="314" height="1338" as="geometry" />
+          <mxGeometry x="168" y="-96" width="314" height="1338" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-4" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="103" y="83" width="124" height="49" as="geometry" />
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-8" value="混凝土裂缝检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="63" y="653" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry x="103" y="1222" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-12" value="2.工件模型" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry x="28" y="368" width="274" height="371" as="geometry" />
@@ -75,9 +72,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-9" target="DlVY9qZL7ljpFvdqH7a3-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="780" width="124" height="49" as="geometry" />
         </mxCell>
@@ -85,6 +79,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="948" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
