@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件检测系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件检测系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="60" y="-24" width="314" height="1338" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
@@ -95,6 +95,12 @@
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="708" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-38" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="362" y="629" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-35" target="DlVY9qZL7ljpFvdqH7a3-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
