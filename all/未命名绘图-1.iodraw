@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件检测系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="192" y="24" width="314" height="372" as="geometry" />
+          <mxGeometry x="192" y="96" width="314" height="372" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
           <mxGeometry relative="1" as="geometry">
