@@ -8,7 +8,7 @@
           <mxGeometry x="600" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-9" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="120" width="124" height="49" as="geometry" />
+          <mxGeometry x="600" y="120" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="228" width="124" height="49" as="geometry" />
