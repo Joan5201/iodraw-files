@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-1" value="基于机器视觉下的工件识别系统设计" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="60" y="-30" width="314" height="1338" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-2" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="DlVY9qZL7ljpFvdqH7a3-1">
@@ -48,6 +48,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DlVY9qZL7ljpFvdqH7a3-14">
+          <mxGeometry x="-0.5644" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="DlVY9qZL7ljpFvdqH7a3-1" source="DlVY9qZL7ljpFvdqH7a3-5" target="DlVY9qZL7ljpFvdqH7a3-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -82,12 +87,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-24" value="1.信息获取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-311" width="210" height="247" as="geometry" />
-        </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DlVY9qZL7ljpFvdqH7a3-13" target="DlVY9qZL7ljpFvdqH7a3-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
