@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-75" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3.工件检测&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="492" y="-24" width="348" height="348" as="geometry" />
+          <mxGeometry x="492" y="-24" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-70" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="228" y="180" width="252" height="252" as="geometry" />
