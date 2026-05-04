@@ -62,7 +62,7 @@
           <mxGeometry x="600" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-9" value="加载检测模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="288" width="156" height="49" as="geometry" />
+          <mxGeometry x="588" y="120" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-10" value="选择目标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="372" width="124" height="49" as="geometry" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-11" value="检测结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="732" width="124" height="49" as="geometry" />
+          <mxGeometry x="600" y="468" width="124" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
