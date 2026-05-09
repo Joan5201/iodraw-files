@@ -26,10 +26,10 @@
           <mxGeometry x="260" y="320" width="56" height="96" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-8" value="双足机器人" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="336" y="334" width="140" height="106" as="geometry" />
+          <mxGeometry x="410" y="334" width="66" height="106" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-9" value="灵巧手" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="526" y="334" width="108" height="49" as="geometry" />
+          <mxGeometry x="560" y="334" width="74" height="96" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-10" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="771" y="235" width="124" height="49" as="geometry" />
