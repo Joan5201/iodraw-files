@@ -14,7 +14,7 @@
           <mxGeometry x="850" y="130" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-4" value="图像采集" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="99" y="235" width="124" height="49" as="geometry" />
+          <mxGeometry x="286" y="235" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-5" value="执行端" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="439" y="235" width="108" height="49" as="geometry" />
