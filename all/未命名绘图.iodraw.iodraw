@@ -25,11 +25,8 @@
         <mxCell id="zg6djC8mZsfIJQEHPY-a-7" value="镜头" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="415" y="334" width="56" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="zg6djC8mZsfIJQEHPY-a-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-8" target="zg6djC8mZsfIJQEHPY-a-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-8" value="双足机器人" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="490" y="334" width="63" height="96" as="geometry" />
+          <mxGeometry x="483" y="328" width="63" height="96" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-9" value="灵巧手" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="330" width="50" height="100" as="geometry" />
