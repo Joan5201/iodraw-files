@@ -41,7 +41,7 @@
           <mxGeometry x="740" y="334" width="68" height="96" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-13" value="图像处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="334" width="62" height="106" as="geometry" />
+          <mxGeometry x="858" y="334" width="62" height="106" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-14" value="建立模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1032" y="334" width="124" height="49" as="geometry" />
