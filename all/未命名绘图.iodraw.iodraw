@@ -44,7 +44,7 @@
           <mxGeometry x="870" y="330" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-14" value="建立模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="930" y="345.5" width="80" height="49" as="geometry" />
+          <mxGeometry x="930" y="345.5" width="40" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-15" value="以太网传输" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="346.5" width="90" height="49" as="geometry" />
