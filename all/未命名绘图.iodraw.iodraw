@@ -23,7 +23,7 @@
           <mxGeometry x="20" y="334" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-7" value="镜头" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="56" height="96" as="geometry" />
+          <mxGeometry x="340" y="334" width="56" height="96" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-8" value="双足机器人" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="410" y="334" width="66" height="106" as="geometry" />
