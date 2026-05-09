@@ -7,7 +7,7 @@
         <mxCell id="zg6djC8mZsfIJQEHPY-a-1" value="基于机器视觉的工件特征研究" style="whiteSpace=wrap;strokeWidth=2;spacing=5;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="553" y="20" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="zg6djC8mZsfIJQEHPY-a-2" value="硬件系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="zg6djC8mZsfIJQEHPY-a-2" value="硬件系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="470" y="130" width="104" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-3" value="软件系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
