@@ -49,12 +49,8 @@
         <mxCell id="zg6djC8mZsfIJQEHPY-a-15" value="以太网传输" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1206" y="334" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="zg6djC8mZsfIJQEHPY-a-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-1" target="zg6djC8mZsfIJQEHPY-a-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="331" y="111" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zg6djC8mZsfIJQEHPY-a-16" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-1" target="zg6djC8mZsfIJQEHPY-a-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-1" target="zg6djC8mZsfIJQEHPY-a-3">
           <mxGeometry relative="1" as="geometry">
@@ -66,12 +62,8 @@
         <mxCell id="zg6djC8mZsfIJQEHPY-a-18" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-2" target="zg6djC8mZsfIJQEHPY-a-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zg6djC8mZsfIJQEHPY-a-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-2" target="zg6djC8mZsfIJQEHPY-a-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="493" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="zg6djC8mZsfIJQEHPY-a-19" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-2" target="zg6djC8mZsfIJQEHPY-a-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-20" value="" style="startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="zg6djC8mZsfIJQEHPY-a-4" target="zg6djC8mZsfIJQEHPY-a-6">
           <mxGeometry relative="1" as="geometry" />
