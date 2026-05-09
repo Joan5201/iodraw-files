@@ -17,7 +17,7 @@
           <mxGeometry x="330" y="235" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-5" value="执行端" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="466" y="235" width="108" height="49" as="geometry" />
+          <mxGeometry x="492" y="229" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-6" value="工业相机" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="334" width="64" height="96" as="geometry" />
