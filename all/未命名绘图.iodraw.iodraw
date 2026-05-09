@@ -31,7 +31,7 @@
         <mxCell id="zg6djC8mZsfIJQEHPY-a-9" value="灵巧手" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="520" y="330" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zg6djC8mZsfIJQEHPY-a-10" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="zg6djC8mZsfIJQEHPY-a-10" value="数据处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="800" y="229" width="104" height="49" as="geometry" />
         </mxCell>
         <mxCell id="zg6djC8mZsfIJQEHPY-a-11" value="工件识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
