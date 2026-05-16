@@ -10,7 +10,7 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-70" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="228" y="180" width="252" height="252" as="geometry" />
         </mxCell>
-        <mxCell id="DlVY9qZL7ljpFvdqH7a3-69" value="&lt;div style=&quot;text-align: justify; font-size: 14px;&quot;&gt;1.信息获取&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=right;" parent="1" vertex="1">
+        <mxCell id="DlVY9qZL7ljpFvdqH7a3-69" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="245" y="-29" width="192" height="192" as="geometry" />
         </mxCell>
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DlVY9qZL7ljpFvdqH7a3-2" target="DlVY9qZL7ljpFvdqH7a3-9" edge="1">
