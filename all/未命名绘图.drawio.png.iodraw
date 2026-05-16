@@ -79,6 +79,12 @@
         <mxCell id="kSVQATS_55PFqoIKGikA-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="425" y="192" width="107" height="118" as="geometry" />
         </mxCell>
+        <mxCell id="kSVQATS_55PFqoIKGikA-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="208" as="sourcePoint" />
+            <mxPoint x="528" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
