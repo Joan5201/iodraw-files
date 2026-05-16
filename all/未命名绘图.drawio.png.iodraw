@@ -76,6 +76,9 @@
         <mxCell id="DlVY9qZL7ljpFvdqH7a3-76" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基于机器视觉下的工件采集系统设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="328" y="-120" width="396" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kSVQATS_55PFqoIKGikA-28" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;" vertex="1" parent="1">
+          <mxGeometry x="458" y="69" width="121" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
